@@ -6,4 +6,6 @@
 
 ## 📱 酷安：[纸间书摘](https://www.coolapk.com/apk/com.merpyzf.xmnote)
 
+## 🍠 小红书：[纸间书摘](https://www.xiaohongshu.com/user/profile/5cb854f80000000017039010)
+
 ## 🧑🏻‍💻 微信：scarecrow0x18

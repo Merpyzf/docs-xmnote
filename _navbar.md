@@ -1,2 +1,3 @@
+- [✨Happy 4th Birthday 🎂](https://www.coolapk.com/apk/com.merpyzf.xmnote)
 - [下载地址](https://www.coolapk.com/apk/com.merpyzf.xmnote)
 - [开发计划](https://trello.com/b/4koyRW7R/%E7%BA%B8%E9%97%B4%E4%B9%A6%E6%91%98%E5%BC%80%E5%8F%91%E8%AE%A1%E5%88%92)

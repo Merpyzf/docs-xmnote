@@ -4,7 +4,7 @@
 
 ## 1. 查看套餐并开始购买
 
-![购买套餐流程](https://doc-1252413502.cos.ap-nanjing.myqcloud.com/Xnip2022-01-02_13-18-19.png)
+![购买套餐流程](https://doc-1252413502.cos.ap-nanjing.myqcloud.com/%E8%B4%AD%E4%B9%B0%E6%B5%81%E7%A8%8B1.png)
 
 ### 应用内获取高级版本的流程
 
@@ -19,7 +19,7 @@
 
 ## 2. 使用支付宝转账购买
 
-![支付宝转账购买流程](https://doc-1252413502.cos.ap-nanjing.myqcloud.com/Xnip2022-01-02_13-46-11.png)
+![支付宝转账购买流程](https://doc-1252413502.cos.ap-nanjing.myqcloud.com/%E8%B4%AD%E4%B9%B0%E6%B5%81%E7%A8%8B2.png)
 
 ### 支付宝转账购买流程
 

@@ -10,7 +10,7 @@
 
 ### 1. 激活码未被任何设备占用
 
-![激活码未被设备占用时的激活流程](https://doc-1252413502.cos.ap-nanjing.myqcloud.com/Xnip2022-01-02_14-31-38.png)
+![激活码未被设备占用时的激活流程](https://doc-1252413502.cos.ap-nanjing.myqcloud.com/%E6%BF%80%E6%B4%BB%E6%B5%81%E7%A8%8B.png)
 
 #### 激活流程
 
@@ -21,7 +21,7 @@
 
 ### 2. 激活码已被其它设备占用
 
-![激活码已被设备占用时的激活流程](https://doc-1252413502.cos.ap-nanjing.myqcloud.com/Xnip2022-01-02_14-44-16.png)
+![激活码已被设备占用时的激活流程](https://doc-1252413502.cos.ap-nanjing.myqcloud.com/%E6%BF%80%E6%B4%BB%E7%A0%81%E8%A2%AB%E5%8D%A0%E7%94%A8.png)
 
 1. 点击激活按钮开启激活码输入弹窗。
 2. 输入激活码。

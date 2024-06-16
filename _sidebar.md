@@ -37,8 +37,8 @@
 
 * 图表 & 小组件
 
-    * [💚 热力图](chart_and_appwidget/heartchart)
-    * [🖼 小组件](chart_and_appwidget/appwidget)
+    * [💚 热力图](chart/heartchart)
+    * [🖼 小组件](chart/appwidget)
 
 * FAQ
 
