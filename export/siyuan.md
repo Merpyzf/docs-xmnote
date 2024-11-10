@@ -21,9 +21,15 @@
 
 ### 2. 获取 API token。
 
-> 若您没有设置过<mark style="background-color:yello;">**访问授权码**</mark>**，**思源 API 的鉴权是处于关闭状态的，因此您可以不用设置 API token。纸间书摘中的 API Token 可以留空**。**
+1. 开启访问授权码
 
-以下图为例，API token 的值为：67b502cs7vya1m2s
-![API token](https://doc-1252413502.cos.ap-nanjing.myqcloud.com/%E6%88%AA%E5%B1%8F2023-07-01%2015.57.11.png)
+    ![开启访问授权码](https://doc-1252413502.cos.ap-nanjing.myqcloud.com/SCR-20241110-nzfb.png) 
+    
+    点击「设置」来启用访问授权码。⚠️ 访问授权码是必须的，如果不开启您将无法访问到思源的伺服服务。
 
-将获取到的 <mark style="background-color:yellow;">**网络地址、端口号、API token**</mark> 依次填写到纸间书摘即可完成导出前的配置工作。
+2. 获取 API token
+
+    以下图为例，API token 的值为：67b502cs7vya1m2s
+    ![API token](https://doc-1252413502.cos.ap-nanjing.myqcloud.com/%E6%88%AA%E5%B1%8F2023-07-01%2015.57.11.png)
+
+    将获取到的 <mark style="background-color:yellow;">**网络地址、端口号、API token**</mark> 依次填写到纸间书摘即可完成导出前的配置工作。
