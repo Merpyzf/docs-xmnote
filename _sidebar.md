@@ -55,6 +55,6 @@
 
 * 法律法规
 
-    * [🤝 用户协议](law/useragreement)
-    * [🙈 隐私政策](law/privacypolicy)
+    * [👤 用户协议](law/useragreement)
+    * [🔐 隐私政策](law/privacypolicy)
     
