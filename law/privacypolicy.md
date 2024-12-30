@@ -204,8 +204,6 @@
 
 #### 下面是详细 SDK 情况说明：
 
-**统计类 SDK**
-
 SDK 名称：友盟统计分析 SDK<br>
 运营方：友盟同欣（北京）科技有限公司<br>
 使用目的：进行 APP 运营统计与分析<br>
@@ -214,9 +212,22 @@ SDK 名称：友盟统计分析 SDK<br>
 
 SDK 名称：友盟 U-APM SDK<br>
 运营方：友盟同欣（北京）科技有限公司<br>
-使用目的：应用性能监控平台U-APM<br>
+使用目的：收集用户使用过程中的崩溃日志，提升产品稳定性<br>
 收集个人信息类型：个人信息字段采集：我们采集设备信息（IMEI/MAC/Android ID/OAID/IDFA/OpenUDID/GUID/SIM卡IMSI/ICCID/地理位置等），用于唯一标识设备，以便提供设备应用性能监控服务；通过采集位置信息提供反作弊服务，剔除作弊设备，排查应用性能崩溃原因。<br>
 隐私权政策链接：https://www.umeng.com/page/policy
+
+SDK 名称：腾讯对象存储 SDK<br>
+运营方：腾讯云计算（北京）有限责任公司<br>
+使用目的：上传用户需要保存的图片<br>
+收集个人信息类型：网络状态、IP地址、读取多媒体文件<br>
+隐私权政策链接：https://cloud.tencent.com/document/product/301/11470
+
+SDK 名称：百度 OCR 文字识别在线 SDK<br>
+运营方：北京百度网讯科技有限公司<br>
+使用目的：提取图像中的文字<br>
+收集个人信息类型：设备标识符（如 Android ID、HarmonyOS OAID）、WLAN 接入点<br>
+隐私权政策链接：https://ai.baidu.com/ai-doc/REFERENCE/Jky9l49bk
+
 
 ## 五、应用内会申请的权限
 
