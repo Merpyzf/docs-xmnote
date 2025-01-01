@@ -71,6 +71,14 @@
 
 请注意：单独的设备信息、日志信息是无法识别特定自然人身份的个人信息。如果我们将这类非个人信息与其他个人信息结合用于识别特定自然人身份，或者将其与个人信息结合使用，则在结合使用期间，这类非个人信息将被视为个人信息，除取得您授权或法律法规另有规定外，我们会将该类个人信息做匿名化、去标识化处理。
 
+#### 剪切板信息
+
+当您使用纸间书摘服务时，我们会使用您设备上的剪切板功能并读取剪贴板的内容，以实现：
+
+1. 快速将剪切板中的内容粘贴到笔记编辑框。
+2. 如果检测到剪切板中的内容为书籍链接，我们将以弹窗形式展示对应的书籍信息，帮助您快速创建书籍。
+        
+
 #### 为您提供安全保障
 
 **为提高您使用我们及合作伙伴提供服务的安全性，保护您或其他用户或公众的人身财产安全免遭侵害，更好地预防钓鱼网站、欺诈、网络漏洞、计算机病毒、网络攻击、网络侵入等安全风险，更准确地识别违反法律法规或纸间书摘服务相关协议规则的情况，我们可能会收集、使用或整合您的账户信息、交易信息、设备信息、日志信息以及我们关联公司、合作伙伴取得您授权或依据法律共享的个人信息，来综合判断您账户及交易风险、进行身份验证、检测及防范安全事件，并依法采取必要的记录、审计、分析、处置措施。**
@@ -204,30 +212,35 @@
 
 #### 下面是详细 SDK 情况说明：
 
-SDK 名称：友盟统计分析 SDK<br>
+SDK 名称：友盟+移动统计SDK<br>
 运营方：友盟同欣（北京）科技有限公司<br>
 使用目的：进行 APP 运营统计与分析<br>
 收集个人信息类型：设备信息（IMEI/MAC/Android ID/IDFA/OAID/OpenUDID/GUID/SIM 卡 IMSI/ICCID）、位置信息、网络信息<br>
-隐私权政策链接：https://www.umeng.com/page/policy
-
-SDK 名称：友盟 U-APM SDK<br>
+隐私权政策链接：https://www.umeng.com/page/policy<br>
+        
+SDK 名称：友盟+应用性能监控SDK<br>
 运营方：友盟同欣（北京）科技有限公司<br>
 使用目的：收集用户使用过程中的崩溃日志，提升产品稳定性<br>
-收集个人信息类型：个人信息字段采集：我们采集设备信息（IMEI/MAC/Android ID/OAID/IDFA/OpenUDID/GUID/SIM卡IMSI/ICCID/地理位置等），用于唯一标识设备，以便提供设备应用性能监控服务；通过采集位置信息提供反作弊服务，剔除作弊设备，排查应用性能崩溃原因。<br>
-隐私权政策链接：https://www.umeng.com/page/policy
+收集个人信息类型：个人信息字段采集：我们采集设备信息（IMEI/MAC/AndroidID/OAID/IDFA/OpenUDID/GUID/SIM卡IMSI/ICCID/地理位置等），用于唯一标识设备，以便提供设备应用性能监控服务；通过采集位置信息提供反作弊服务，剔除作弊设备，排查应用性能崩溃原因。<br>
+隐私权政策链接：https://www.umeng.com/page/policy<br>
 
+SDK 名称：Crash SDK <br>
+运营方：广州市动景计算机科技有限公司<br>
+使用目的：收集用户使用过程中的崩溃日志，提升产品稳定性<br>
+收集个人信息类型：个人信息字段采集：我们采集设备信息（IMEI/MAC/AndroidID/OAID/IDFA/OpenUDID/GUID/SIM卡IMSI/ICCID/地理位置等），用于唯一标识设备，以便提供设备应用性能监控服务；通过采集位置信息提供反作弊服务，剔除作弊设备，排查应用性能崩溃原因。<br>
+隐私权政策链接：https://yueying-docs.effirst.com/privacy.html<br>
+            
 SDK 名称：腾讯对象存储 SDK<br>
 运营方：腾讯云计算（北京）有限责任公司<br>
 使用目的：上传用户需要保存的图片<br>
 收集个人信息类型：网络状态、IP地址、读取多媒体文件<br>
-隐私权政策链接：https://cloud.tencent.com/document/product/301/11470
+隐私权政策链接：https://cloud.tencent.com/document/product/301/11470<br>
 
-SDK 名称：百度 OCR 文字识别在线 SDK<br>
+SDK 名称：文字识别在线SDK（Android版）<br>
 运营方：北京百度网讯科技有限公司<br>
 使用目的：提取图像中的文字<br>
 收集个人信息类型：设备标识符（如 Android ID、HarmonyOS OAID）、WLAN 接入点<br>
-隐私权政策链接：https://ai.baidu.com/ai-doc/REFERENCE/Jky9l49bk
-
+隐私权政策链接：https://ai.baidu.com/ai-doc/REFERENCE/Jky9l49bk<br>
 
 ## 五、应用内会申请的权限
 
